@@ -1,0 +1,270 @@
+{
+    "base": {
+        "x": 301.0,
+        "y": 15.0,
+        "z": 81.0
+    },
+    "caixas": {
+        "A1": {
+            "status": "guardada",
+            "x": 13.0,
+            "z": 7.0,
+            "itens": []
+        },
+        "A2": {
+            "status": "guardada",
+            "x": 79.0,
+            "z": 9.0,
+            "itens": []
+        },
+        "A3": {
+            "status": "guardada",
+            "x": 146.0,
+            "z": 9.0,
+            "itens": []
+        },
+        "A4": {
+            "status": "guardada",
+            "x": 211.0,
+            "z": 9.0,
+            "itens": []
+        },
+        "B1": {
+            "status": "guardada",
+            "x": 13.0,
+            "z": 77.0,
+            "itens": []
+        },
+        "B2": {
+            "status": "guardada",
+            "x": 79.0,
+            "z": 77.0,
+            "itens": []
+        },
+        "B3": {
+            "status": "guardada",
+            "x": 145.0,
+            "z": 77.0,
+            "itens": []
+        },
+        "B4": {
+            "status": "guardada",
+            "x": 211.0,
+            "z": 77.0,
+            "itens": []
+        },
+        "C1": {
+            "status": "guardada",
+            "x": 13.0,
+            "z": 147.0,
+            "itens": []
+        },
+        "C2": {
+            "status": "guardada",
+            "x": 79.0,
+            "z": 147.0,
+            "itens": []
+        },
+        "C3": {
+            "status": "guardada",
+            "x": 145.0,
+            "z": 147.0,
+            "itens": []
+        },
+        "C4": {
+            "status": "guardada",
+            "x": 211.0,
+            "z": 147.0,
+            "itens": []
+        },
+        "D1": {
+            "status": "guardada",
+            "x": 12.0,
+            "z": 219.0,
+            "itens": []
+        },
+        "D2": {
+            "status": "guardada",
+            "x": 79.0,
+            "z": 217.0,
+            "itens": []
+        },
+        "D3": {
+            "status": "guardada",
+            "x": 145.0,
+            "z": 218.0,
+            "itens": []
+        },
+        "D4": {
+            "status": "guardada",
+            "x": 211.0,
+            "z": 219.0,
+            "itens": []
+        }
+    },
+    "logs": [
+        {
+            "data_hora": "05/10/2026 21:48:58",
+            "tipo": "Sa\u00edda",
+            "caixa": "B1",
+            "item": "teste",
+            "qtd": 1
+        },
+        {
+            "data_hora": "05/10/2026 21:48:58",
+            "tipo": "Sa\u00edda",
+            "caixa": "B1",
+            "item": "teste",
+            "qtd": 1
+        },
+        {
+            "data_hora": "05/10/2026 21:48:54",
+            "tipo": "Sa\u00edda",
+            "caixa": "C3",
+            "item": "frango congelado",
+            "qtd": 1
+        },
+        {
+            "data_hora": "05/10/2026 21:48:54",
+            "tipo": "Sa\u00edda",
+            "caixa": "C3",
+            "item": "frango congelado",
+            "qtd": 1
+        },
+        {
+            "data_hora": "05/10/2026 21:48:48",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "joias",
+            "qtd": 1
+        },
+        {
+            "data_hora": "05/10/2026 21:48:48",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "joias",
+            "qtd": 1
+        },
+        {
+            "data_hora": "05/10/2026 21:48:48",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "joias",
+            "qtd": 1
+        },
+        {
+            "data_hora": "05/10/2026 21:48:48",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "joias",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 12:11:20",
+            "tipo": "Entrada",
+            "caixa": "B1",
+            "item": "teste",
+            "qtd": 2
+        },
+        {
+            "data_hora": "01/09/2026 11:57:11",
+            "tipo": "Entrada",
+            "caixa": "A1",
+            "item": "joias",
+            "qtd": 4
+        },
+        {
+            "data_hora": "01/09/2026 11:56:32",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "vinicius",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:56:31",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "teste",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:53:51",
+            "tipo": "Sa\u00edda",
+            "caixa": "C3",
+            "item": "frango congelado",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:53:49",
+            "tipo": "Sa\u00edda",
+            "caixa": "C3",
+            "item": "frango congelado",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:53:49",
+            "tipo": "Sa\u00edda",
+            "caixa": "C3",
+            "item": "frango congelado",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:51:59",
+            "tipo": "Entrada",
+            "caixa": "C3",
+            "item": "frango congelado",
+            "qtd": 5
+        },
+        {
+            "data_hora": "01/09/2026 11:44:13",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "vinicius",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:44:13",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "vinicius",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:44:05",
+            "tipo": "Entrada",
+            "caixa": "A1",
+            "item": "vinicius",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:44:04",
+            "tipo": "Entrada",
+            "caixa": "A1",
+            "item": "vinicius",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:43:51",
+            "tipo": "Entrada",
+            "caixa": "A1",
+            "item": "vinicius",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:42:54",
+            "tipo": "Sa\u00edda",
+            "caixa": "A1",
+            "item": "teste",
+            "qtd": 1
+        },
+        {
+            "data_hora": "01/09/2026 11:42:50",
+            "tipo": "Entrada",
+            "caixa": "A1",
+            "item": "teste",
+            "qtd": 1
+        }
+    ],
+    "seq_retirada": "G0 Y40\nG0 X{X-1} Z{Z}\nG0 Y-10\nTOGGLE_D22\nG0 Z{Z-2}\nG0 Y65\nG0 X{BX} Z{BZ-5}\nG0 Y-12\nG0 Z{BZ}\nTOGGLE_D22\nG0 Z{BZ+5}\nG0 Y10",
+    "seq_devolucao": "G0 Y40\nG0 X{BX} Z{BZ}\nG0 Y-12\nTOGGLE_D22\nG0 Z{BZ-2}\nG0 Y65\nG0 X{X-1} Z{Z}\nG0 Z{Z-3}\nG0 Y-10\nG0 Z{Z}\nTOGGLE_D22\nG0 Z{Z+7}\nG0 Y40"
+}
